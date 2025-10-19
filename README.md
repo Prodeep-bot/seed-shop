@@ -29,20 +29,7 @@
         <button onclick="addToCart()">Add to Cart</button>
       </div>
 
-      <div class="product-card">
-        <img src="https://via.placeholder.com/150" alt="Basil Seeds">
-        <h3>Basil Seeds</h3>
-        <p>$1.99</p>
-        <button onclick="addToCart()">Add to Cart</button>
-      </div>
 
-      <div class="product-card">
-        <img src="https://via.placeholder.com/150" alt="Carrot Seeds">
-        <h3>Carrot Seeds</h3>
-        <p>$3.49</p>
-        <button onclick="addToCart()">Add to Cart</button>
-      </div>
-    </div>
   </main>
 
   <footer>
